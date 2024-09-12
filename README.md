@@ -1,5 +1,3 @@
-
-
 # Barry's Bot
 
 Este proyecto es un bot para WhatsApp utilizando Baileys. A continuación, se detallan los pasos para configurar y ejecutar el bot en Termux.
